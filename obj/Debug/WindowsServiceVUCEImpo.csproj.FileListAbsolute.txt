@@ -1,0 +1,14 @@
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe.config
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.pdb
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\AccesoDatos.dll
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\Utilidades.dll
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\Oracle.DataAccess.dll
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\AccesoDatos.pdb
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\Utilidades.pdb
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\obj\Debug\WindowsServiceVUCEImpo.csprojAssemblyReference.cache
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\obj\Debug\WindowsServiceVUCEImpo.csproj.CopyComplete
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\obj\Debug\WindowsServiceVUCEImpo.exe
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\obj\Debug\WindowsServiceVUCEImpo.pdb
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\obj\Debug\WindowsServiceVUCEImpo.ProjectInstaller.resources
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\obj\Debug\WindowsServiceVUCEImpo.csproj.GenerateResource.cache

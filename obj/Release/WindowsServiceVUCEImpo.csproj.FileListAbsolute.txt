@@ -1,0 +1,16 @@
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Release\WindowsServiceVUCEImpo.exe.config
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Release\WindowsServiceVUCEImpo.exe
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Release\WindowsServiceVUCEImpo.XmlSerializers.dll
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Release\WindowsServiceVUCEImpo.pdb
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Release\AccesoDatos.dll
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Release\Utilidades.dll
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Release\Oracle.DataAccess.dll
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Release\AccesoDatos.pdb
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Release\Utilidades.pdb
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\obj\Release\WindowsServiceVUCEImpo.csprojAssemblyReference.cache
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\obj\Release\WindowsServiceVUCEImpo.csproj.CopyComplete
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\obj\Release\WindowsServiceVUCEImpo.exe
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\obj\Release\WindowsServiceVUCEImpo.pdb
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\obj\Release\WindowsServiceVUCEImpo.XmlSerializers.dll
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\obj\Release\WindowsServiceVUCEImpo.ProjectInstaller.resources
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\obj\Release\WindowsServiceVUCEImpo.csproj.GenerateResource.cache

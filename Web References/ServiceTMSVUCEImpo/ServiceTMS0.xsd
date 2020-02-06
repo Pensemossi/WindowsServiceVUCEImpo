@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://www.tms.com.co/" elementFormDefault="qualified" targetNamespace="http://www.tms.com.co/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="EntidadParametrizadaRequest">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="entidad" nillable="true" type="tns:EntidadParametrizada" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="EntidadParametrizada">
+    <xs:sequence>
+      <xs:element name="identificadorObjeto" nillable="true" type="xs:string" />
+      <xs:element name="parametros" nillable="true" type="tns:ArrayOfParametro" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="EntidadParametrizada" nillable="true" type="tns:EntidadParametrizada" />
+  <xs:complexType name="ArrayOfParametro">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Parametro" nillable="true" type="tns:Parametro" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfParametro" nillable="true" type="tns:ArrayOfParametro" />
+  <xs:complexType name="Parametro">
+    <xs:sequence>
+      <xs:element name="nombre" nillable="true" type="xs:string" />
+      <xs:element name="valor" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Parametro" nillable="true" type="tns:Parametro" />
+  <xs:complexType name="UsrAplicacion">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="idAppEntidad" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="idUsuario" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="UsrAplicacion" nillable="true" type="tns:UsrAplicacion" />
+  <xs:element name="usuarioApp" nillable="true" type="tns:UsrAplicacion" />
+  <xs:element name="EntidadParametrizadaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="registros" nillable="true" type="tns:RegistrosEntidad" />
+        <xs:element minOccurs="0" name="respuesta" nillable="true" type="tns:ResultadoOperacion" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="RegistrosEntidad">
+    <xs:sequence>
+      <xs:element name="registros" nillable="true">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:any minOccurs="0" processContents="lax" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="RegistrosEntidad" nillable="true" type="tns:RegistrosEntidad" />
+  <xs:complexType name="ResultadoOperacion">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="descripcion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="estadoOperacion" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="fechaOperacion" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="idOperacion" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ResultadoOperacion" nillable="true" type="tns:ResultadoOperacion" />
+</xs:schema>

@@ -1,0 +1,150 @@
+﻿Instalando ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe.
+Confirmando ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe.
+Quitar el archivo InstallState porque no hay instaladores.
+Desinstalando ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe.
+Instalando ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe.
+Confirmando ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe.
+Quitar el archivo InstallState porque no hay instaladores.
+Instalando ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Deshaciendo ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Excepción durante la fase de retroceso al estado original del instalador System.ServiceProcess.ServiceProcessInstaller.
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Deshaciendo ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Excepción durante la fase de retroceso al estado original del instalador System.ServiceProcess.ServiceProcessInstaller.
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Instalando el servicio ServLeerVUCEImpo...
+Creando el origen de EventLog ServLeerVUCEImpo en el registro Application...
+Deshaciendo ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Restaurando el registro de eventos al estado anterior para el origen ServLeerVUCEImpo.
+Instalando ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Deshaciendo ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Instalando ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Instalando el servicio ServLeerVUCEImpo...
+Creando el origen de EventLog ServLeerVUCEImpo en el registro Application...
+Deshaciendo ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Restaurando el registro de eventos al estado anterior para el origen ServLeerVUCEImpo.
+Instalando ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Instalando el servicio ServLeerVUCEImpo...
+Creando el origen de EventLog ServLeerVUCEImpo en el registro Application...
+Deshaciendo ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Restaurando el registro de eventos al estado anterior para el origen ServLeerVUCEImpo.
+Instalando ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Confirmando ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Instalando ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Confirmando ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Instalando ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Instalando el servicio ServLeerVUCEImpo...
+Creando el origen de EventLog ServLeerVUCEImpo en el registro Application...
+Deshaciendo ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Restaurando el registro de eventos al estado anterior para el origen ServLeerVUCEImpo.
+Instalando ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe
+Confirmando ensamblado 'C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.InstallLog
+   assemblypath = C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\bin\Debug\WindowsServiceVUCEImpo.exe

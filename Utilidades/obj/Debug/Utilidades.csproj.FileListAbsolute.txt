@@ -1,0 +1,16 @@
+C:\SourceCode\FactorySuiteV3\Utilidades\bin\Debug\Utilidades.dll
+C:\SourceCode\FactorySuiteV3\Utilidades\bin\Debug\Utilidades.pdb
+C:\SourceCode\FactorySuiteV3\Utilidades\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+C:\SourceCode\FactorySuiteV3\Utilidades\obj\Debug\Utilidades.dll
+C:\SourceCode\FactorySuiteV3\Utilidades\obj\Debug\Utilidades.pdb
+C:\SourceCode\FactorySuiteV3\Utilidades\obj\Debug\Utilidades.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\WSInicial\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\Administrador\source\repos\WSInicial\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Administrador\source\repos\WSInicial\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\Administrador\source\repos\WSInicial\Utilidades\obj\Debug\Utilidades.pdb
+C:\Users\Administrador\source\repos\WSInicial\Utilidades\obj\Debug\Utilidades.csprojAssemblyReference.cache
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\Utilidades\bin\Debug\Utilidades.dll
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\Utilidades\bin\Debug\Utilidades.pdb
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\Utilidades\obj\Debug\Utilidades.csprojAssemblyReference.cache
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\Utilidades\obj\Debug\Utilidades.dll
+C:\Pensemos\Source\Repos\WindowsServiceVUCEImpo\Utilidades\obj\Debug\Utilidades.pdb
